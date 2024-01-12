@@ -2,7 +2,7 @@
 
 ### Noah K. Benitez-Nelson, David Dralle, W. Jess Hahm, Daniella Rempe
 
-Accompanying data and code for upcoming paper submission.
+Dataset and code to replicate analysis for upcoming paper submission.
 
 Last updated January 12th, 2024 by Noah Benitez-Nelson.
 
