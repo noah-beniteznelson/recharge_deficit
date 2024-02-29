@@ -1,4 +1,4 @@
-## Code for "Unsaturated zone water storage regulates recharge to groundwater and subsequent runoff response in seasonally dry California basins"
+## Code for "Remotely-sensed root-zone storage deficits explain intra-seasonal delayed precipitation-groundwater recharge response across seasonally dry California basins"
 
 ### Noah K. Benitez-Nelson, David Dralle, W. Jess Hahm, Daniella Rempe
 
