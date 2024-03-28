@@ -4,7 +4,7 @@
 
 Dataset and code to replicate analysis in upcoming paper submission.
 
-Last updated January 12th, 2024 by Noah Benitez-Nelson.
+Last updated March 28th, 2024 by Noah Benitez-Nelson.
 
 **Code Descriptions**
 - *PART_I.ipynb*:  Extract catchment hydrology, clean data, filter watersheds, calculate the root-zone storage deficit, estimate groundwater recharge, summarize catchment hydrogeology, determine the dependence of subsurface storage on winter precipitation. 
