@@ -1,8 +1,8 @@
-## Code for "Remotely-sensed root-zone storage deficits explain intra-seasonal delayed precipitation-groundwater recharge response across seasonally dry California basins"
+## Code for "Patterns of Intra-Seasonal Groundwater Recharge Inferred from Streamflow and Explained by Vadose Zone Storage Deficits"
 
-### Noah K. Benitez-Nelson, David Dralle, W. Jess Hahm, Daniella Rempe
+### Noah K. Benitez-Nelson, David N. Dralle, W. Jess Hahm, Daniella M. Rempe
 
-Dataset and code to replicate analysis in upcoming paper submission.
+Dataset and code to replicate analyses in upcoming paper submission.
 
 Last updated March 28th, 2024 by Noah Benitez-Nelson.
 
@@ -10,7 +10,7 @@ Last updated March 28th, 2024 by Noah Benitez-Nelson.
 - *PART_I.ipynb*:  Extract catchment hydrology, clean data, filter watersheds, calculate the root-zone storage deficit, estimate groundwater recharge, summarize catchment hydrogeology, determine the dependence of subsurface storage on winter precipitation. 
 - *PART_II.ipynb*:  Analyses and figures.
 - *hydrograph_recession_comparison.ipynb*:  Compare groundwater recharge estimation of Dralle et al. (2023) and method used herein.
-- *recharge_ratio_resolution_comparison.ipynb*:  Compare how increasing the resolution of input data products affects storm-event analysis. 
+- *recharge_ratio_resolution_comparison.ipynb*:  Compare how increasing the resolution of input data products affects the storm-event analysis. 
 - *et_product_comparison.ipynb*:  Compare evapotranspiration products across basins.
 
 **Data Descriptions**
