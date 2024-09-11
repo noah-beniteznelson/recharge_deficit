@@ -1,10 +1,10 @@
-## Code for "Patterns of Intra-Seasonal Groundwater Recharge Inferred from Streamflow and Explained by Vadose Zone Storage Deficits"
+## Code for "The Role of Vadose Zone Storage Deficits in Modulating Groundwater Recharge and Streamflow in Seasonally Dry Watersheds"
 
 ### Noah K. Benitez-Nelson, David N. Dralle, W. Jess Hahm, Daniella M. Rempe
 
 Dataset and code to replicate analyses in upcoming paper submission.
 
-Last updated March 28th, 2024 by Noah Benitez-Nelson.
+Last updated September 11th, 2024 by Noah Benitez-Nelson.
 
 **Code Descriptions**
 - *PART_I.ipynb*:  Extract catchment hydrology, clean data, filter watersheds, calculate the root-zone storage deficit, estimate groundwater recharge, summarize catchment hydrogeology, determine the dependence of subsurface storage on winter precipitation. 
